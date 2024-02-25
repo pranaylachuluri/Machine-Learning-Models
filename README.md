@@ -60,3 +60,7 @@ Dataset used :
 Classification Algorithm used to train the model:
 
 - Decision Tree
+
+# 4. Fraudulent Detection
+
+This model detects fraud transactions done
